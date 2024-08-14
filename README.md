@@ -1,2 +1,2 @@
 # curso.dev
-curso de progamação Felipe Dechamps
+curso de progamação Filipe Deschamps
